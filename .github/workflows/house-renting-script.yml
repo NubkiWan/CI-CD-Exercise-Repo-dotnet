@@ -30,9 +30,11 @@ name: .NET Core Workflow for Jenkins
 
 on:
   push:
-    branches: [ "main" ]
+    branches:
+        - main
   pull_request:
-    branches: [ "main" ]
+    branches: 
+        - main
 
 jobs:
 
@@ -53,7 +55,7 @@ jobs:
       run: dotnet restore
 
     - name: Build
-      run: dotnet build --no-restore
+      run: dotnet build 
     
     - name: Execute unit tests
       run: dotnet test
