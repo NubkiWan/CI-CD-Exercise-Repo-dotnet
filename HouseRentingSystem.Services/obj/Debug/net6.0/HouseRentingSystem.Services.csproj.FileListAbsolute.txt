@@ -1,0 +1,12 @@
+H:\Cursove\07-Back End test Automation - November 2024\02-Continuous Integration(CI)-Exercise\02-House-Renting-System-App\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.deps.json
+H:\Cursove\07-Back End test Automation - November 2024\02-Continuous Integration(CI)-Exercise\02-House-Renting-System-App\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.runtimeconfig.json
+H:\Cursove\07-Back End test Automation - November 2024\02-Continuous Integration(CI)-Exercise\02-House-Renting-System-App\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.dll
+H:\Cursove\07-Back End test Automation - November 2024\02-Continuous Integration(CI)-Exercise\02-House-Renting-System-App\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.pdb
+H:\Cursove\07-Back End test Automation - November 2024\02-Continuous Integration(CI)-Exercise\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.csproj.AssemblyReference.cache
+H:\Cursove\07-Back End test Automation - November 2024\02-Continuous Integration(CI)-Exercise\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+H:\Cursove\07-Back End test Automation - November 2024\02-Continuous Integration(CI)-Exercise\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.AssemblyInfoInputs.cache
+H:\Cursove\07-Back End test Automation - November 2024\02-Continuous Integration(CI)-Exercise\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.AssemblyInfo.cs
+H:\Cursove\07-Back End test Automation - November 2024\02-Continuous Integration(CI)-Exercise\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.csproj.CoreCompileInputs.cache
+H:\Cursove\07-Back End test Automation - November 2024\02-Continuous Integration(CI)-Exercise\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.dll
+H:\Cursove\07-Back End test Automation - November 2024\02-Continuous Integration(CI)-Exercise\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.pdb
+H:\Cursove\07-Back End test Automation - November 2024\02-Continuous Integration(CI)-Exercise\02-House-Renting-System-App\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.genruntimeconfig.cache
